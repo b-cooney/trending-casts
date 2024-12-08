@@ -5,12 +5,12 @@ const SocialLinks = () => {
     {
       name: 'Farcaster',
       icon: <Link className="w-5 h-5" />,
-      url: '#',
+      url: 'https://warpcast.com/~/channel/trending-casts',
     },
     {
       name: 'Twitter',
       icon: <Twitter className="w-5 h-5" />,
-      url: '#',
+      url: 'https://x.com/trending_casts',
     },
     {
       name: 'Highlight',
