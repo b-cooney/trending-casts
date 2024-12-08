@@ -1,12 +1,12 @@
 const Hero = () => {
   // Sample comic images - in a real app, these would be your actual comic images
   const images = [
-    'src/components/1.png',
-    'src/components/2.png',
-    'src/components/3.png',
-    'src/components/4.png',
-    'src/components/5.png',
-    'src/components/6.png',
+    'https://raw.githubusercontent.com/b-cooney/trending-casts/refs/heads/main/src/components/1.png',
+    'https://raw.githubusercontent.com/b-cooney/trending-casts/refs/heads/main/src/components/2.png',
+    'https://raw.githubusercontent.com/b-cooney/trending-casts/refs/heads/main/src/components/3.png',
+    'https://raw.githubusercontent.com/b-cooney/trending-casts/refs/heads/main/src/components/4.png',
+    'https://raw.githubusercontent.com/b-cooney/trending-casts/refs/heads/main/src/components/5.png',
+    'https://raw.githubusercontent.com/b-cooney/trending-casts/refs/heads/main/src/components/6.png',
   ]
 
   return (
