@@ -1,12 +1,12 @@
 const Hero = () => {
   // Sample comic images - in a real app, these would be your actual comic images
   const images = [
-    'https://picsum.photos/400/400?random=1',
-    'https://picsum.photos/400/400?random=2',
-    'https://picsum.photos/400/400?random=3',
-    'https://picsum.photos/400/400?random=4',
-    'https://picsum.photos/400/400?random=5',
-    'https://picsum.photos/400/400?random=6',
+    'src/components/1.png',
+    'src/components/2.png',
+    'src/components/3.png',
+    'src/components/4.png',
+    'src/components/5.png',
+    'src/components/6.png',
   ]
 
   return (
