@@ -2,8 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Import a comic-style fallback font */
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
 :root {
-  font-family: "Comic Sans MS", "Comic Sans", cursive, system-ui;
+  font-family: "Comic Sans MS", "Comic Sans", "Patrick Hand", cursive, system-ui;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 @keyframes scroll {
